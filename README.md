@@ -32,4 +32,4 @@ Ce projet a été réalisé dans un cadre d'apprentissage personnel de JavaScrip
 
 ## Auteur
 
-Développé par SirAdaz
+Développé par [SirAdaz](https://github.com/SirAdaz)
