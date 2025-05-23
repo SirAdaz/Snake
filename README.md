@@ -32,6 +32,6 @@ Ce projet a été réalisé dans un cadre d'apprentissage personnel de JavaScrip
 
 ## Auteur
 
-[![SirAdaz](https://github.com/SirAdaz.png?size=20)](https://github.com/SirAdaz)  
-Développé par [SirAdaz](https://github.com/SirAdaz)
+
+Développé par [![SirAdaz](https://github.com/SirAdaz.png?size=20)](https://github.com/SirAdaz) [SirAdaz](https://github.com/SirAdaz)
 
